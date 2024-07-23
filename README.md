@@ -5,17 +5,13 @@ This is a simple weather application built using React. It allows users to check
 ### Features
 
 Display current weather conditions (temperature, humidity, wind speed, etc.).
-
 Search for weather by city name.
-
 Responsive design.
 
-Technologies Used
+### Technologies Used
 
 React
-
 OpenWeatherMap API
-
 GeoDB Cities API
 
 ### Installation
