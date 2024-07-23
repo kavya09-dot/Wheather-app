@@ -1,4 +1,5 @@
 Description
+
 This is a simple weather application built using React. It allows users to check the current weather conditions for a given location.
 
 Features
